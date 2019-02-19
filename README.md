@@ -1,0 +1,2 @@
+# Causal judgments approximate the effectiveness of future interventions
+This repository contains the data and analysis code for "Causal judgments approximate the effectiveness of future interventions", by Adam Morris, Jonathan Phillips, Thomas Icard, Joshua Knobe, Tobias Gerstenberg, and Fiery Cushman. The data are reproduced from Morris et al. (2019); see https://psyarxiv.com/upv8t.
